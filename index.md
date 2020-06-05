@@ -30,15 +30,24 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ## Tech Futures Root Certificates
 
-```markdown
+
 ### Tech Futures Root CA
-SHA256 • RSA • 2048
-**Valid until: August 2, 2037
-**Serial:** 74da1f6aded75da742342466a65d9413
-**Thumbprint:** 3449c0116e338ac21816e3af959dddcc475dd21a
+| Tech Futures Root CA ||
+| ------------- | ------------- |
+| **Signature Algorithm** | SHA256 • RSA • 2048 |
+| **Valid until**  | August 2, 2037 |
+| **Serial** | 74da1f6aded75da742342466a65d9413 |
+| **Thumbprint** | 3449c0116e338ac21816e3af959dddcc475dd21a |
+| Verify Commit | 75c6bd14de4bd2d5dfd904f24663cb80a6d849ad |
+
+
+>SHA256 • RSA • 2048  
+>**Valid until:** August 2, 2037  
+>**Serial:** 74da1f6aded75da742342466a65d9413  
+>**Thumbprint:** 3449c0116e338ac21816e3af959dddcc475dd21a  
 
 >Verify Commit: 75c6bd14de4bd2d5dfd904f24663cb80a6d849ad
-```
+
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/techfutures/keychain/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
