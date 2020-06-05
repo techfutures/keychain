@@ -3,9 +3,9 @@
 On this page you will find the master list of all Tech Futures public keys and certificates to use for validation and authentication.
 
 * [PGP Public Keys](#pgp-public-keys)
-* [SSH Public Keys](ssh-public-keys)
-* [Root Certificates](tech-futures-root-certificates)
-* [Intermediate Certificates](tech-futures-intermediate-certificates)
+* [SSH Public Keys](#ssh-public-keys)
+* [Root Certificates](#tech-futures-root-certificates)
+* [Intermediate Certificates](#tech-futures-intermediate-certificates)
 
 ### Support or Contact
 
