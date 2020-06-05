@@ -1,36 +1,47 @@
 # Welcome to Tech Futures Keychain
 
-You can use the [editor on GitHub](https://github.com/techfutures/keychain/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+On this page you will find the master list of all Tech Futures public keys and certificates to use for validation and authentication.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+* [PGP Public Keys](#pgp-public-keys)
+* [SSH Public Keys](ssh-public-keys)
+* [Root Certificates](tech-futures-root-certificates)
+* [Intermediate Certificates](tech-futures-intermediate-certificates)
 
-### Markdown
+### Support or Contact
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+If the authenticity or validity of any of the below credentials are in queston, please contact [support@techfutures.xyz](mailto:support@techfutures.xyz)
 
-```markdown
-Syntax highlighted code block
+---
 
-# Header 1
-## Header 2
-### Header 3
+## PGP Public Keys
 
-- Bulleted
-- List
+| Andrew Gee | agee@techfutures.xyz      |
+| ------------- | ------------- |
+| Key ID | rsa4096/FDC481B157CF9857 |
+| Status | `Primary key` |
+| Created | `June 4, 2020` |
+| Expires | `June 4, 2021` |
+| Fingerprint | `E072 9812 DA04 2C93 1620  794A FDC4 81B1 57CF 9857` |
+| **Download** | [**57CF9857.txt**](https://github.com/techfutures/keychain/blob/master/index.md) |
+| Verify Commit | [4a55d0d](https://github.com/techfutures/keychain/commit/4a55d0db1888f1d71c59a47a73e5ce33c8446ef9) |
 
-1. Numbered
-2. List
+---
 
-**Bold** and _Italic_ and `Code` text
+## SSH Public Keys
 
-[Link](url) and ![Image](src)
-```
+| Andrew Gee | agee@techfutures.xyz      |
+| ------------- | ------------- |
+| Format | ssh-rsa |
+| Status | `Primary key` |
+| Fingerprint | `af:cd:41:15:2f:7c:63:a2:62:7c:fa:c9:6e:39:80:40` |
+| **Download** | [**agee-ssh-publickey.txt**](https://github.com/techfutures/keychain/blob/master/index.md) |
+| Verify Commit | [4a55d0d](https://github.com/techfutures/keychain/commit/4a55d0db1888f1d71c59a47a73e5ce33c8446ef9) |
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+---
 
 ## Tech Futures Root Certificates
 
-| ### Tech Futures Root CA |        |
+| Name | Tech Futures       |
 | ------------- | ------------- |
 | Signature Algorithm | `SHA256 • RSA • 4096` |
 | Valid until  | `August 2, 2037` |
@@ -44,14 +55,8 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 | Name | Tech Futures Enterprise CA - X1    |
 | ------------- | ------------- |
 | Signature Algorithm | `SHA256 • RSA • 4096` |
-| Valid until  | `August 2, 2037` |
+| Valid until  | `August 2, 2027` |
 | Serial | `5500000002e63c9f05034adc55000000000002` |
 | Thumbprint | `c7f38b92fe793418025c87af98a17bf7308d3cab` |
 | **Download** | [**Tech Futures Intermediate CA - X1.crt**](https://github.com/techfutures/keychain/blob/master/index.md) |
 | Verify Commit | [4a55d0d](https://github.com/techfutures/keychain/commit/4a55d0db1888f1d71c59a47a73e5ce33c8446ef9) |
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/techfutures/keychain/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.

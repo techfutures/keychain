@@ -1,4 +1,4 @@
 theme: jekyll-theme-cayman
 title: Tech Futures Public Keys and Certificates
 description: Public master list of Tech Futures issued Root/Intermediate Certificates and Public Keys
-show_download: true
+show_downloads: true
