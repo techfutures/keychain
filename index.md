@@ -22,7 +22,7 @@ If the authenticity or validity of any of the below credentials are in queston, 
 | Created | `June 4, 2020` |
 | Expires | `June 4, 2021` |
 | Fingerprint | `E072 9812 DA04 2C93 1620  794A FDC4 81B1 57CF 9857` |
-| **Download** | [**agee@techfutures.xyz_pgp-public-key_57CF9857.txt**](https://keychain.techfutures.xyz/agee%40techfutures.xyz_pgp-public-key_57CF9857.txt) |
+| **Download** | [**agee@techfutures.xyz_pgp-public-key_57CF9857.txt**](https://keychain.techfutures.xyz/pgp/agee%40techfutures.xyz_pgp-public-key_57CF9857.txt) |
 | Verify Commit | [8d3d417](https://github.com/techfutures/keychain/commit/b714492c7e8bf5c93d5c2d59b1dbe0b19c30062d) |
 
 <p>&nbsp;</p>
@@ -34,7 +34,7 @@ If the authenticity or validity of any of the below credentials are in queston, 
 | Created | `June 5, 2020` |
 | Expires | `June 5, 2021` |
 | Fingerprint | `8C38 84A1 D2A6 2446 AFEB  1FF7 FCD2 B681 E5C8 C9FE` |
-| **Download** | [**gtardt@techfutures.xyz_pgp-public-key_E5C8C9FE.txt**](https://keychain.techfutures.xyz/gtardt%40techfutures.xyz_pgp-public-key_E5C8C9FE.txt) |
+| **Download** | [**gtardt@techfutures.xyz_pgp-public-key_E5C8C9FE.txt**](https://keychain.techfutures.xyz/pgp/gtardt%40techfutures.xyz_pgp-public-key_E5C8C9FE.txt) |
 | Verify Commit | [8d3d417](https://github.com/techfutures/keychain/commit/b714492c7e8bf5c93d5c2d59b1dbe0b19c30062d) |
 
 ---
@@ -46,7 +46,7 @@ If the authenticity or validity of any of the below credentials are in queston, 
 | Format | ssh-rsa • 2048 |
 | Status | `New Primary key` |
 | Fingerprint | `14d1a8e4f2bee2f697fea058148d69d866b31082` |
-| **Download** | [**agee@techfutures.xyz_ssh-publickey-new.txt**](https://github.com/techfutures/keychain/blob/master/index.md) |
+| **Download** | [**agee@techfutures.xyz_ssh-publickey-new.txt**](https://github.com/techfutures/keychain/ssh/agee@techfutures.xyz_ssh-publickey-new.txt) |
 | Verify Commit | [d5ce595](https://github.com/techfutures/keychain/commit/d5ce5955571d400fbb186bb320975a1462e57d2c) |
 
 <p>&nbsp;</p>
