@@ -25,13 +25,15 @@ If the authenticity or validity of any of the below credentials are in queston, 
 | **Download** | [**agee@techfutures.xyz_pgp-public-key_57CF9857.txt**](https://keychain.techfutures.xyz/agee%40techfutures.xyz_pgp-public-key_57CF9857.txt) |
 | Verify Commit | [654c2dc](https://github.com/techfutures/keychain/commit/3b2590c9a641432ea420381e80f9d514f919ff74) |
 
+
+
 | George Tardt | gtardt@techfutures.xyz      |
 | ------------- | ------------- |
 | Key ID | rsa4096/FCD2B681E5C8C9FE |
 | Status | `Primary key` |
 | Created | `June 5, 2020` |
 | Expires | `June 5, 2021` |
-| Fingerprint | `` |
+| Fingerprint | `8C38 84A1 D2A6 2446 AFEB  1FF7 FCD2 B681 E5C8 C9FE` |
 | **Download** | [**gtardt@techfutures.xyz_pgp-public-key_E5C8C9FE.txt**](https://keychain.techfutures.xyz/gtardt%40techfutures.xyz_pgp-public-key_E5C8C9FE.txt) |
 | Verify Commit | [654c2dc](https://github.com/techfutures/keychain/commit/3b2590c9a641432ea420381e80f9d514f919ff74) |
 
@@ -41,8 +43,18 @@ If the authenticity or validity of any of the below credentials are in queston, 
 
 | Andrew Gee | agee@techfutures.xyz      |
 | ------------- | ------------- |
-| Format | ssh-rsa |
-| Status | `Primary key` |
+| Format | ssh-rsa • 2048 |
+| Status | `New Primary key` |
+| Fingerprint | `14d1a8e4f2bee2f697fea058148d69d866b31082` |
+| **Download** | [**agee-ssh-publickey-new.txt**](https://github.com/techfutures/keychain/blob/master/index.md) |
+| Verify Commit | [4a55d0d](https://github.com/techfutures/keychain/commit/4a55d0db1888f1d71c59a47a73e5ce33c8446ef9) |
+
+
+
+| Andrew Gee | agee@techfutures.xyz      |
+| ------------- | ------------- |
+| Format | ssh-rsa • 2048 |
+| Status | `Old key` |
 | Fingerprint | `af:cd:41:15:2f:7c:63:a2:62:7c:fa:c9:6e:39:80:40` |
 | **Download** | [**agee-ssh-publickey.txt**](https://github.com/techfutures/keychain/blob/master/index.md) |
 | Verify Commit | [4a55d0d](https://github.com/techfutures/keychain/commit/4a55d0db1888f1d71c59a47a73e5ce33c8446ef9) |
