@@ -22,7 +22,7 @@ If the authenticity or validity of any of the below credentials are in queston, 
 | Created | `June 4, 2020` |
 | Expires | `June 4, 2021` |
 | Fingerprint | `E072 9812 DA04 2C93 1620  794A FDC4 81B1 57CF 9857` |
-| **Download** | [**57CF9857.txt**](https://github.com/techfutures/keychain/blob/master/index.md) |
+| **Download** | [**agee@techfutures.xyz_pgp-public-key_57CF9857.txt**](https://github.com/techfutures/keychain/blob/master/index.md) |
 | Verify Commit | [4a55d0d](https://github.com/techfutures/keychain/commit/4a55d0db1888f1d71c59a47a73e5ce33c8446ef9) |
 
 ---
