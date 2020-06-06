@@ -25,7 +25,7 @@ If the authenticity or validity of any of the below credentials are in queston, 
 | **Download** | [**agee@techfutures.xyz_pgp-public-key_57CF9857.txt**](https://keychain.techfutures.xyz/agee%40techfutures.xyz_pgp-public-key_57CF9857.txt) |
 | Verify Commit | [654c2dc](https://github.com/techfutures/keychain/commit/3b2590c9a641432ea420381e80f9d514f919ff74) |
 
-
+<p>&nbsp;</p>
 
 | George Tardt | gtardt@techfutures.xyz      |
 | ------------- | ------------- |
@@ -49,7 +49,7 @@ If the authenticity or validity of any of the below credentials are in queston, 
 | **Download** | [**agee-ssh-publickey-new.txt**](https://github.com/techfutures/keychain/blob/master/index.md) |
 | Verify Commit | [4a55d0d](https://github.com/techfutures/keychain/commit/4a55d0db1888f1d71c59a47a73e5ce33c8446ef9) |
 
-
+<p>&nbsp;</p>
 
 | Andrew Gee | agee@techfutures.xyz      |
 | ------------- | ------------- |
