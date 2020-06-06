@@ -9,7 +9,7 @@ On this page you will find the master list of all Tech Futures public keys and c
 
 ### Support or Contact
 
-If the authenticity or validity of any of the below credentials are in queston, please contact [support@techfutures.xyz](mailto:support@techfutures.xyz)
+If the authenticity or validity of any of the below credentials are in question, please contact [support@techfutures.xyz](mailto:support@techfutures.xyz)
 
 ---
 
