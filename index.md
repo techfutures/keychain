@@ -1,11 +1,20 @@
 # Welcome to Tech Futures Keychain
 
-On this page you will find the master list of all Tech Futures public keys and certificates to use for validation and authentication.
+On this page you will find the master list of all active Tech Futures public keys and certificates to use for validation and authentication.
 
 * [PGP Public Keys](#pgp-public-keys)
 * [SSH Public Keys](#ssh-public-keys)
 * [Root Certificates](#tech-futures-root-certificates)
 * [Intermediate Certificates](#tech-futures-intermediate-certificates)
+
+#### Revoked and Superseded Public Keys
+
+For all revoked or superseded public keys, find them on the [Revoked and Superseded Public Keys Page](./revoked-and-superseded.html)
+
+#### Certificate Revocation List (CRL)
+
+To be posted
+<!-- A publicly accessible CRL is posted to -->
 
 ### Support or Contact
 
@@ -17,8 +26,10 @@ If the authenticity or validity of any of the below credentials are in question,
 
 | Andrew Gee | agee@techfutures.xyz      |
 | ------------- | ------------- |
+| Aliases | agee@techfutures.co, hi@andrewgee.ca |
 | Key ID | rsa4096/FDC481B157CF9857 |
 | Status | `Primary key` |
+| Last Updated | `June 7, 2020` |
 | Created | `June 4, 2020` |
 | Expires | `June 4, 2021` |
 | Fingerprint | `E072 9812 DA04 2C93 1620  794A FDC4 81B1 57CF 9857` |
@@ -29,8 +40,10 @@ If the authenticity or validity of any of the below credentials are in question,
 
 | George Tardt | gtardt@techfutures.xyz      |
 | ------------- | ------------- |
+| Aliases | gtardt@techfutures.co |
 | Key ID | rsa4096/FCD2B681E5C8C9FE |
 | Status | `Primary key` |
+| Last Updated | `June 7, 2020` |
 | Created | `June 5, 2020` |
 | Expires | `June 5, 2021` |
 | Fingerprint | `8C38 84A1 D2A6 2446 AFEB  1FF7 FCD2 B681 E5C8 C9FE` |
@@ -69,6 +82,7 @@ If the authenticity or validity of any of the below credentials are in question,
 | Valid until  | `August 2, 2037` |
 | Serial | `74da1f6aded75da742342466a65d9413` |
 | Thumbprint | `3449c0116e338ac21816e3af959dddcc475dd21a` |
+| CRL |  |
 | **Download** | [**Tech Futures Root CA.crt**](https://github.com/techfutures/keychain/blob/master/index.md) |
 | Verify Commit | [4a55d0d](https://github.com/techfutures/keychain/commit/4a55d0db1888f1d71c59a47a73e5ce33c8446ef9) |
 
@@ -80,5 +94,6 @@ If the authenticity or validity of any of the below credentials are in question,
 | Valid until  | `August 2, 2027` |
 | Serial | `5500000002e63c9f05034adc55000000000002` |
 | Thumbprint | `c7f38b92fe793418025c87af98a17bf7308d3cab` |
+| CRL |  |
 | **Download** | [**Tech Futures Intermediate CA - X1.crt**](https://github.com/techfutures/keychain/blob/master/index.md) |
 | Verify Commit | [4a55d0d](https://github.com/techfutures/keychain/commit/4a55d0db1888f1d71c59a47a73e5ce33c8446ef9) |
