@@ -34,7 +34,7 @@ If the authenticity or validity of any of the below credentials are in question,
 | Expires | `June 4, 2021` |
 | Fingerprint | `E072 9812 DA04 2C93 1620  794A FDC4 81B1 57CF 9857` |
 | **Download** | [**agee@techfutures.xyz_pgp-public-key_57CF9857.txt**](https://keychain.techfutures.xyz/pgp/agee%40techfutures.xyz_pgp-public-key_57CF9857.txt) |
-| Verify Commit | [8d3d417](https://github.com/techfutures/keychain/commit/b714492c7e8bf5c93d5c2d59b1dbe0b19c30062d) |
+| Verify Commit | [c803a83](https://github.com/techfutures/keychain/commit/1556e08fa77edf738e415a42f1a5abd1a2c8dec8) |
 
 <p>&nbsp;</p>
 
